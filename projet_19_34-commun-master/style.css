@@ -1,0 +1,35 @@
+@font-face {
+	font-family: "HARRYP__";
+	font-weight: bold;
+	src: url('HARRYP__.ttf');
+}
+
+.grisback{
+	background-color: grey; 
+		padding: 75px;
+
+}
+
+body {
+	padding: 50px;
+	background-color: #D3D3D3;
+}
+
+.titre{
+	text-align: center;
+	font-size: 110px;
+	font-family: "HARRYP__";
+}
+
+.flch{
+	padding: 20px;
+	padding-left: 47%;
+}
+
+.buttons{
+	padding:25px;
+}
+
+.barre1{
+	position: relative; top: -291px;
+}
